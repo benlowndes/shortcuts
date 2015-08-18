@@ -27,7 +27,10 @@ F2 / ⇧| Next / Prev Bookmark
 
 # git
 git fetch origin
-gss # git status -s
+gss   # git status -s
+grh   # git reset HEAD
+grhh  # git reset HEAD --hard
+
 https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
 
 #omyzsh
