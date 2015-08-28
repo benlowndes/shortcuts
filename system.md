@@ -33,12 +33,14 @@ gdt   | git difftool
 gclean| git reset --hard && git clean -dfx
 grh   | git reset HEAD
 grhh  | git reset HEAD --hard
+stree | sourcetree
 
 https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
 
 #omyzsh
 alias # List all aliases
 
+ipatool
 
 https://atom.io/docs/v1.0.2/using-atom-editing-and-deleting-text
 
