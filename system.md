@@ -24,6 +24,7 @@ F2 / ⇧| Next / Prev Bookmark
 ⌃⇧W   | Select word
 ⌘K↓/→ | Split Pane
 ⌘K⌘↓  | Navigate Pane
+⌃⇧    | Markdown Preview
 
 # git
 git fetch origin
@@ -37,10 +38,12 @@ stree | sourcetree
 
 https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet
 
-#omyzsh
+# omyzsh
 alias # List all aliases
 
+# terminal
 ipatool
+grep -r "search string" /path/
 
 https://atom.io/docs/v1.0.2/using-atom-editing-and-deleting-text
 
